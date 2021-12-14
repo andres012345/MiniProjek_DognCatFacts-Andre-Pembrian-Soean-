@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="catbuttonpressed">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">108dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:background">@drawable/roundedbutton</item>
+        <item name="android:backgroundTint">@color/button_backgroundtint</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+</resources>
